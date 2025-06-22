@@ -34,10 +34,9 @@ Feedback positivo em usabilidade, motivação e simplicidade
 
 ## 📂 Organização do Repositório
 
-- `wp-content/` – Pastas principais do WordPress personalizadas
-- `imagens/` – Capturas da plataforma
-- `docs/` – Documentação do projeto
-- `database.sql` – Estrutura da base de dados (opcional)
+- `plugins/` `themes/` – Pastas principais do WordPress 
+- `images/` – Capturas da plataforma
+- `RELATORIOFINALPEJARI .pdf` – Documentação do projeto
 
 ## 🔗 Prototipagem
 
